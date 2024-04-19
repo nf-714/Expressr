@@ -15,7 +15,7 @@ This project provides a solid foundation for building efficient and scalable Nod
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-github-repo-url.git
+   git clone https://github.com/nf-714/Expressr.git
    ```
 
    Replace `https://your-github-repo-url.git` with your actual repository URL.
